@@ -4,7 +4,7 @@ layers:
     Z, X, C, V, B, MUTE, '', N, M, ',', ., /, RSHFT, LGUI, LALT, LCTRL, lower, RET, SPACE, raise, RCTRL, RALT, RGUI]
   lower:
   - '&studio_unlock'
-  - F1
+  - '1'
   - F2
   - F3
   - F4
