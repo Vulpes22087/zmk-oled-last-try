@@ -101,7 +101,7 @@
             bindings = <
 &bt BT_CLR  &bt BT_SEL 0    &bt BT_SEL 1      &bt BT_SEL 2  &bt BT_SEL 3          &bt BT_SEL 4                             &ext_power EP_ON  &ext_power EP_OFF  &trans    &trans     &trans  &trans
 &trans      &kp KP_NUMLOCK  &kp PSCRN         &trans        &trans                &trans                                   &kp PG_UP         &trans             &kp UP    &trans     &kp N0  &trans
-&trans      &kp PERCENT     &kp AMPERSAND     &kp EXCL      &kp QUESTION          &kp CLCK                                 &kp PG_DN         &kp LEFT           &kp DOWN  &kp RIGHT  &trans  &trans
+&trans      &kp PERCENT     &kp AMPERSAND     &kp EXCL      &kp QUESTION          &kp TILDE                                &kp PG_DN         &kp LEFT           &kp DOWN  &kp RIGHT  &trans  &trans
 &trans      &kp LESS_THAN   &kp GREATER_THAN  &kp COLON     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans    &trans  &kp LS(F10)       &trans             &trans    &trans     &trans  &trans
                             &trans            &trans        &trans                &trans                 &trans    &trans  &trans            &trans             &trans    &trans
             >;
