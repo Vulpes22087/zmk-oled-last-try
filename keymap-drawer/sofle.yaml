@@ -31,7 +31,7 @@ layers:
   - Ctl+Z
   - Ctl+X
   - Ctl+C
-  - Ctl+$
+  - Ctl+V
   - Gui+Sft+S
   - '@'
   - '&'
