@@ -37,7 +37,7 @@
         cperiod: cperiod {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp GRAVE &kp KP_DOT>;
+            bindings = <&kp GRAVE &kp PERIOD>;
             label = "CPERIOD";
         };
 
