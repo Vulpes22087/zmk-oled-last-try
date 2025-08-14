@@ -81,7 +81,7 @@ layers:
   - PSCRN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - _
   - PG UP
   - {t: ▽, type: trans}
   - UP
